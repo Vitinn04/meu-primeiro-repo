@@ -1,5 +1,5 @@
 # meu-primeiro-repo
-Meu primeiro repositorio na faculdade
+# Primeiro repositório na SPTECH
 
 Fiz uma alteração remota no Github.
 
